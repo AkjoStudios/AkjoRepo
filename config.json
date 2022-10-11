@@ -1,0 +1,3 @@
+{
+    "dl": "https://github.com/AkjoStudios/{crate}/releases/download/v{version}/{crate}-{version}.crate"
+}
